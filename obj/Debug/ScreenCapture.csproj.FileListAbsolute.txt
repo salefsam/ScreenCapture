@@ -1,0 +1,6 @@
+c:\users\sam\documents\visual studio 2013\Projects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe.config
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.pdb
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.exe
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.pdb
